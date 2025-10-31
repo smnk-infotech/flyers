@@ -1,4 +1,4 @@
-# Deploying this static site to Firebase Hosting
+﻿# Deploying this static site to Firebase Hosting
 
 This guide shows how to host the static export in this folder on Firebase Hosting using a new Google/Firebase project. I cannot create the Firebase account or project for you — follow the steps below on your machine.
 
@@ -67,3 +67,4 @@ Security reminder
 - Do NOT commit private server-side keys or service-account JSON files into this repo. The static export should only contain public client assets.
 
 If you want, I can also add optional hosting headers to `firebase.json` (frame-ancestors, CSP) and update `firebase.json` accordingly. Tell me whether you want `X-Frame-Options: DENY`, `SAMEORIGIN`, or a CSP `frame-ancestors` allowlist.
+

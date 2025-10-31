@@ -1,4 +1,4 @@
-# Website Components and Features Guide
+﻿# Website Components and Features Guide
 
 ## Header Components
 1. **Navigation Menu**
