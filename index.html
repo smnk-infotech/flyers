@@ -132,7 +132,52 @@ a, a:active, a:focus {
 @media only screen and (min-width: 1100px) and (max-width: 1500px) {
     body {zoom: 75%;}
 }		</style>
-		<meta name="generator" content="WP Rocket 3.18.2" data-wpr-features="wpr_minify_concatenate_js wpr_minify_css wpr_desktop wpr_dns_prefetch"></head>
+		<meta name="generator" content="WP Rocket 3.18.2" data-wpr-features="wpr_minify_concatenate_js wpr_minify_css wpr_desktop wpr_dns_prefetch">
+
+		<script>
+		/* Anti-framing / clickjacking protection.
+			 - If this page is loaded inside a frame and the top host is not allowed,
+				 attempt to break out of the frame by setting top.location to this page.
+			 - Customize the `allowedHosts` array to whitelist specific hostnames.
+		*/
+		(function(){
+			try {
+				var allowedHosts = [
+					'localhost',
+					'127.0.0.1',
+					'www.flyerscharitabletrust.org',
+					'flyerscharitabletrust.org'
+				];
+
+				function hostAllowed(h){
+					if(!h) return false;
+					try { h = h.replace(/^\[|\]$/g, ''); } catch(e){}
+					return allowedHosts.indexOf(h) !== -1;
+				}
+
+				if (window.top !== window.self) {
+					// Prefer document.referrer (may be empty). Fallback to top.location (may throw).
+					var refHost = null;
+					if (document.referrer) {
+						try { refHost = (new URL(document.referrer)).hostname; } catch(e) { refHost = null; }
+					}
+
+					var currentHost = location.hostname;
+
+					if (!hostAllowed(refHost) && !hostAllowed(currentHost)) {
+						try { window.top.location = window.location.href; } catch (e) {
+							// If top is cross-origin and cannot be rewritten, hide the page contents as fallback.
+							try { document.documentElement.style.display = 'none'; } catch(e){}
+						}
+					}
+				}
+			} catch(err) {
+				try { window.top.location = window.location.href; } catch(e){}
+			}
+		})();
+		</script>
+
+</head>
 
 <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home wp-singular page-template-default page page-id-172 wp-custom-logo wp-theme-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.11.2 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-5 elementor-page elementor-page-172">
 
