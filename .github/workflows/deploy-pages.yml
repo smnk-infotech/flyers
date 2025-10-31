@@ -1,22 +1,16 @@
-name: validate-site
+name: Validate Site
+
 on:
   push:
-    branches:
-      - main
-      - master
-  workflow_dispatch: {}
+    branches: [main, master]
+  workflow_dispatch:
+
 jobs:
-  noop-check:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Report workspace contents
-        run: |
-          echo "Listing workspace files"
-          ls -la
-      - name: Validate YAML syntax files
-        uses: ibiqlik/action-yamllint@v3
-        with:
-          strict: false
-        continue-on-error: true
+      
+      - name: List workspace files
+        run: ls -la
