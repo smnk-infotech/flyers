@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Us – Flyers Charitable Trust</title>
+<meta name="robots" content="max-image-preview:large">
+<style>
+/* Reset and Base Styles */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-size:112.5%;}
+body{margin:0;font-family:'Inter',sans-serif;font-weight:400;font-size:18px;line-height:1.85714285714286;color:var(--ast-global-color-3);background:#fff;}
+
+/* CSS Variables */
+:root{
+--ast-post-nav-space:0;
+--ast-container-default-xlg-padding:3em;
+--ast-container-default-lg-padding:3em;
+--ast-container-default-slg-padding:2em;
+--ast-container-default-md-padding:3em;
+--ast-container-default-sm-padding:3em;
+--ast-container-default-xs-padding:2.4em;
+--ast-container-default-xxs-padding:1.8em;
+--ast-code-block-background:#ECEFF3;
+--ast-comment-inputs-background:#F9FAFB;
+--ast-normal-container-width:1200px;
+--ast-narrow-container-width:750px;
+--ast-blog-title-font-weight:normal;
+--ast-blog-meta-weight:inherit;
+--ast-global-color-0:#060097;
+--ast-global-color-1:#c10fff;
+--ast-global-color-2:#1e293b;
+--ast-global-color-3:#67768e;
+--ast-global-color-4:#f9f6fe;
+--ast-global-color-5:#FFFFFF;
+--ast-global-color-6:#F2F5F7;
+--ast-global-color-7:#ffcd57;
+--ast-global-color-8:#000000;
+--ast-border-color:var(--ast-global-color-6);
+--ast-author-avatar-size:32px;
+--ast-global-dark-bg-style:#fff;
+}
+
+/* Typography */
+h1,h2,h3,h4,h5,h6{clear:both;font-family:'Plus Jakarta Sans',sans-serif;font-weight:600;color:var(--ast-global-color-2);}
+h1{font-size:64px;line-height:1.4em;}
+h2{font-size:48px;line-height:1.3em;}
+h3{font-size:24px;line-height:1.3em;}
+h4{font-size:20px;line-height:1.2em;}
+h5{font-size:18px;line-height:1.2em;}
+h6{font-size:15px;line-height:1.25em;}
+
+/* Links */
+a{color:var(--ast-global-color-0);text-decoration:none;transition:all .2s linear;}
+a:hover,a:focus{color:var(--ast-global-color-1);}
+
+/* Container */
+.ast-container{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:20px;padding-right:20px;}
+
+/* Header */
+.site-header{z-index:99;position:relative;background-color:#fff;border-bottom:1px solid var(--ast-border-color);}
+.main-header-bar{padding:1em 0;}
+
+/* Navigation */
+.main-navigation{display:inline-flex;height:100%;}
+.main-navigation ul{list-style:none;margin:0;padding:0;}
+.main-navigation .menu-item{position:relative;display:flex;flex-direction:column;justify-content:center;}
+.main-navigation .menu-link{padding:0 1em;display:inline-block;transition:all .2s linear;}
+
+/* Forms */
+input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],input[type=url],textarea{
+color:#666;
+border:1px solid var(--ast-border-color);
+border-radius:2px;
+padding:.75em;
+background:var(--ast-comment-inputs-background);
+-webkit-appearance:none;
+appearance:none;
+}
+input[type=email]:focus,input[type=password]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=text]:focus,input[type=url]:focus,textarea:focus{
+color:#111;
+background-color:#fff;
+border-color:var(--ast-border-color);
+outline:thin dotted;
+}
+input[type=search]{
+-webkit-appearance:textfield;
+appearance:textfield;
+}
+button,input[type=button],input[type=submit],input[type=reset]{
+-webkit-appearance:button;
+appearance:button;
+cursor:pointer;
+border:0;
+border-radius:50px;
+background-color:var(--ast-global-color-7);
+color:var(--ast-global-color-2);
+padding:20px 40px;
+font-family:inherit;
+font-weight:600;
+font-size:20px;
+line-height:1em;
+transition:all .2s linear;
+}
+button:hover,input[type=button]:hover,input[type=submit]:hover,input[type=reset]:hover{
+background-color:var(--ast-global-color-7);
+color:var(--ast-global-color-2);
+}
+
+/* Content */
+.site-content{padding:4em 0;}
+.entry-content{word-wrap:break-word;}
+.entry-content p{margin-bottom:1.75em;}
+.entry-header{margin-bottom:1.5em;}
+.entry-title{font-size:32px;font-weight:600;margin-bottom:.5em;line-height:1.2;}
+
+/* Separate Container */
+.ast-separate-container{background-color:#f5f5f5;}
+.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{
+background-color:var(--ast-global-color-5);
+padding:3em;
+margin-bottom:2em;
+}
+
+/* Footer */
+.site-footer{padding:45px 0;background-color:var(--ast-global-color-6);}
+
+/* Responsive */
+@media (max-width:921px){
+html{font-size:102.6%;}
+h1{font-size:30px;}
+h2{font-size:25px;}
+h3{font-size:20px;}
+.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:2em;}
+button,input[type=button],input[type=submit],input[type=reset]{padding:18px 32px;}
+}
+@media (max-width:544px){
+.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em;}
+button,input[type=button],input[type=submit],input[type=reset]{padding:15px 28px;}
+}
+
+/* Utility Classes */
+.screen-reader-text{
+border:0;
+clip:rect(1px,1px,1px,1px);
+height:1px;
+margin:-1px;
+overflow:hidden;
+padding:0;
+position:absolute;
+width:1px;
+}
+.aligncenter{
+clear:both;
+text-align:center;
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+</style>
+</head>
+<body class="page ast-separate-container">
+<div id="page" class="site">
+<header class="site-header">
+<div class="main-header-bar">
+<div class="ast-container">
+<div class="site-branding">
+<h1 class="site-title">Flyers Charitable Trust</h1>
+</div>
+<nav class="main-navigation">
+<ul class="main-header-menu">
+<li class="menu-item"><a href="/" class="menu-link">Home</a></li>
+<li class="menu-item"><a href="/about" class="menu-link">About Us</a></li>
+<li class="menu-item"><a href="/contact" class="menu-link">Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+
+<div class="site-content">
+<div class="ast-container">
+<main id="primary" class="site-main">
+<article class="ast-article-single">
+<header class="entry-header">
+<h1 class="entry-title">About Us</h1>
+</header>
+<div class="entry-content">
+<p>Welcome to Flyers Charitable Trust. We are dedicated to making a positive impact in our community through various charitable initiatives and programs.</p>
+<h2>Our Mission</h2>
+<p>Our mission is to provide support and resources to those in need, fostering a spirit of compassion and community engagement.</p>
+<h2>What We Do</h2>
+<p>We organize various charitable events, fundraisers, and community outreach programs to support local causes and help those less fortunate.</p>
+<h2>Get Involved</h2>
+<p>Join us in making a difference! Whether through volunteering, donations, or spreading awareness, every contribution helps us achieve our goals.</p>
+</div>
+</article>
+</main>
+</div>
+</div>
+
+<footer class="site-footer">
+<div class="ast-container">
+<p>&copy; 2024 Flyers Charitable Trust. All rights reserved.</p>
+</div>
+</footer>
+</div>
+</body>
+</html>
