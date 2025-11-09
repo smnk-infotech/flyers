@@ -13552,3 +13552,64 @@ E1104 17:50:51.978274   26620 watch.go:102] watchAllDir unable to walk dir `c:\U
 [debug] [2025-11-04T12:24:52.280Z] E1104 17:54:51.981641   26620 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
 E1104 17:54:51.981641   26620 watch.go:102] watchAllDir unable to walk dir `c:\Users\smnk2\Downloads\flyers\dataconnect`: CreateFile c:\Users\smnk2\Downloads\flyers\dataconnect: The system cannot find the file specified.
  {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1104 17:54:51.981641   26620 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\nE1104 17:54:51.981641   26620 watch.go:102] watchAllDir unable to walk dir `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`: CreateFile c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect: The system cannot find the file specified.\n"}}
+[debug] [2025-11-08T16:00:53.769Z] [Firebase Plugin] Activating Firebase extension.
+[debug] [2025-11-08T16:01:08.987Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-11-08T16:09:17.280Z] [Firebase Plugin] Activating Firebase extension.
+[debug] [2025-11-08T16:09:27.546Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-11-08T16:09:27.549Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-11-08T16:09:27.549Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-08T16:09:27.552Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-08T16:09:27.552Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-08T16:09:27.552Z] > refreshing access token with scopes: []
+[debug] [2025-11-08T16:09:27.554Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-08T16:09:27.554Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-08T16:12:04.609Z] [Firebase Plugin] Activating Firebase extension.
+[debug] [2025-11-08T16:01:08.990Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-11-08T16:01:08.990Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-08T16:01:08.992Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-08T16:01:08.993Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-08T16:01:08.993Z] > refreshing access token with scopes: []
+[debug] [2025-11-08T16:01:08.997Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-08T16:01:08.997Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-08T16:01:09.009Z] [Firebase Plugin] VSCode notification server listening on port 40001
+[debug] [2025-11-09T04:15:56.619Z] [Firebase Plugin] Activating Firebase extension.
+[debug] [2025-11-09T04:16:33.748Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-11-09T04:16:33.757Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-11-09T04:16:33.758Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-09T04:16:33.768Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-09T04:16:33.770Z] Checked if tokens are valid: false, expires at: 1762372544728
+[debug] [2025-11-09T04:16:33.773Z] > refreshing access token with scopes: []
+[debug] [2025-11-09T04:16:33.778Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-09T04:16:33.780Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-09T04:16:33.819Z] [Firebase Plugin] VSCode notification server listening on port 40001
+[info] [Firebase Plugin] Starting Data Connect toolkit (version 2.15.0) on port 50001
+[debug] [2025-11-09T04:16:48.358Z] 'fdc build' failed with error: Unable to build your Data Connect schema and connectors (exit code 1): E1109 09:46:48.349281   16024 cmd.go:43] Error loading data connect config: could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"'fdc build' failed with error: Unable to build your Data Connect schema and connectors (exit code 1): E1109 09:46:48.349281   16024 cmd.go:43] Error loading data connect config: could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
+[debug] [2025-11-09T04:16:48.361Z] Ignoring unsupported arg: auto_download {"metadata":{"emulator":{"name":"dataconnect"},"message":"Ignoring unsupported arg: auto_download"}}
+[debug] [2025-11-09T04:16:48.361Z] Ignoring unsupported arg: port {"metadata":{"emulator":{"name":"dataconnect"},"message":"Ignoring unsupported arg: port"}}
+[debug] [2025-11-09T04:16:48.363Z] Starting Data Connect Emulator with command {"binary":"C:\\Users\\smnk2\\.cache\\firebase\\emulators\\dataconnect-emulator-2.15.0.exe","args":["--logtostderr","-v=2","dev","--listen=localhost:50001","--config_dir=c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect","--enable_output_schema_extensions=true","--enable_output_generated_sdk=true"],"optionalArgs":["listen","config_dir","enable_output_schema_extensions","enable_output_generated_sdk"],"joinArgs":true,"shell":false,"port":9399} {"metadata":{"emulator":{"name":"dataconnect"},"message":"Starting Data Connect Emulator with command {\"binary\":\"C:\\\\Users\\\\smnk2\\\\.cache\\\\firebase\\\\emulators\\\\dataconnect-emulator-2.15.0.exe\",\"args\":[\"--logtostderr\",\"-v=2\",\"dev\",\"--listen=localhost:50001\",\"--config_dir=c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\",\"--enable_output_schema_extensions=true\",\"--enable_output_generated_sdk=true\"],\"optionalArgs\":[\"listen\",\"config_dir\",\"enable_output_schema_extensions\",\"enable_output_generated_sdk\"],\"joinArgs\":true,\"shell\":false,\"port\":9399}"}}
+[info] i  dataconnect: Data Connect Emulator logging to dataconnect-debug.log {"metadata":{"emulator":{"name":"dataconnect"},"message":"Data Connect Emulator logging to \u001b[1mdataconnect-debug.log\u001b[22m"}}
+[debug] [2025-11-09T04:16:48.501Z] E1109 09:46:48.456730   18444 dev.go:79] Failed to load initial config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+E1109 09:46:48.463633   18444 watch.go:102] watchAllDir unable to walk dir `c:\Users\smnk2\Downloads\flyers\dataconnect`: CreateFile c:\Users\smnk2\Downloads\flyers\dataconnect: The system cannot find the file specified.
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:46:48.456730   18444 dev.go:79] Failed to load initial config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\nE1109 09:46:48.463633   18444 watch.go:102] watchAllDir unable to walk dir `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`: CreateFile c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect: The system cannot find the file specified.\n"}}
+[debug] [2025-11-09T04:16:48.510Z] I1109 09:46:48.503619   18444 dev.go:102] Listening on address (HTTP + gRPC): 127.0.0.1:50001
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"I1109 09:46:48.503619   18444 dev.go:102] Listening on address (HTTP + gRPC): 127.0.0.1:50001\n"}}
+[error] [Firebase Plugin] error:  {}
+[debug] [2025-11-09T04:16:53.350Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-09T04:16:53.352Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-09T04:16:53.390Z] [Firebase Plugin] User found:  flyersorgg@gmail.com
+[info] [Firebase Plugin] (Core:Project) New user detected, fetching projects
+[debug] [2025-11-09T04:16:53.395Z] Checked if tokens are valid: true, expires at: 1762665412361
+[debug] [2025-11-09T04:16:53.398Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2025-11-09T04:17:05.396Z] E1109 09:46:58.466834   18444 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:46:58.466834   18444 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
+[debug] [2025-11-09T04:17:05.435Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-11-09T04:17:05.436Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2025-11-09T04:17:08.465Z] E1109 09:47:08.466777   18444 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:47:08.466777   18444 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
+[debug] [2025-11-09T04:17:18.466Z] E1109 09:47:18.466362   18444 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:47:18.466362   18444 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
+[debug] [2025-11-09T04:17:28.465Z] E1109 09:47:28.466423   18444 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:47:28.466423   18444 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
+[debug] [2025-11-09T04:17:38.467Z] E1109 09:47:38.467161   18444 watch.go:31] Failed to load config from "c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect": could not find dataconnect.yaml in `c:\Users\smnk2\Downloads\flyers\dataconnect`
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"E1109 09:47:38.467161   18444 watch.go:31] Failed to load config from \"c:\\\\Users\\\\smnk2\\\\Downloads\\\\flyers\\\\dataconnect\": could not find dataconnect.yaml in `c:\\Users\\smnk2\\Downloads\\flyers\\dataconnect`\n"}}
