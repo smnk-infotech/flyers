@@ -280,3 +280,137 @@
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [debug] [2025-11-12T03:12:52.194Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
 [debug] [2025-11-12T03:12:52.194Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:41:23.548Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:23.551Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:31.050Z] Running auto auth
+[debug] [2025-11-12T03:41:31.051Z] Running auto auth
+[debug] [2025-11-12T03:41:31.108Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.110Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.110Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.111Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.112Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.113Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.113Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.140Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.143Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.150Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.150Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.208Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.208Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.212Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.212Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.215Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.215Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.218Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.219Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.222Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.222Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.225Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.226Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.231Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.231Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.235Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com [none]
+[debug] [2025-11-12T03:41:31.236Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.291Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.293Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.298Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.298Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.299Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.299Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.302Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.311Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.311Z] No OAuth tokens found
+[debug] [2025-11-12T03:41:31.312Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.312Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.319Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.319Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.327Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.327Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.330Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.331Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.333Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.334Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.336Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.336Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.339Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.339Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.342Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T03:41:31.342Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:31.344Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com [none]
+[debug] [2025-11-12T03:41:31.344Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com x-goog-quota-user=projects/flyerscharitabletrust-site
+[debug] [2025-11-12T03:41:32.388Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T03:41:32.389Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.397Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com 200
+[debug] [2025-11-12T03:41:32.398Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.432Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com 403
+[debug] [2025-11-12T03:41:32.435Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com [omitted]
+[debug] [2025-11-12T03:41:32.442Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-11-12T03:41:32.442Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.471Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com 200
+[debug] [2025-11-12T03:41:32.471Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.489Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T03:41:32.489Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.509Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com 200
+[debug] [2025-11-12T03:41:32.512Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.514Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T03:41:32.514Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.517Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com 200
+[debug] [2025-11-12T03:41:32.517Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/fcm.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.536Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com 200
+[debug] [2025-11-12T03:41:32.537Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:41:32.555Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.556Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:41:32.559Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.559Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T03:41:32.566Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com 200
+[debug] [2025-11-12T03:41:32.566Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/identitytoolkit.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:41:32.601Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.602Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T03:41:32.602Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.602Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:41:32.606Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.606Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T03:41:32.606Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:41:32.606Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T03:41:32.613Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com 403
+[debug] [2025-11-12T03:41:32.613Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseio.com [omitted]
+[debug] [2025-11-12T03:41:32.614Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com 200
+[debug] [2025-11-12T03:41:32.618Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.619Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T03:41:32.619Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.622Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T03:41:32.623Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.628Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-11-12T03:41:32.629Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.642Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T03:41:32.642Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-12T03:41:32.643Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com 200
+[debug] [2025-11-12T03:41:32.644Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyerscharitabletrust-site/services/storage.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:53:25.141Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:53:25.145Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T03:53:25.154Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T03:53:25.154Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T03:53:25.159Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-11-12T03:53:25.160Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"4bf5cf9b-70ac-4eed-9aa4-c536e0f10a6d"}
+[debug] [2025-11-12T03:53:25.469Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2025-11-12T03:53:25.474Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"00-eu4kp08hzNF5vPnFu89y33gaK_oH-K_juXk4jlx4"}
