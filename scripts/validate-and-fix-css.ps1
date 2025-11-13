@@ -1,5 +1,5 @@
 Set-Location "c:\Users\smnk2\Downloads\flyers"
-$file = Get-ChildItem -Filter 'About Us*.html' | Select-Object -First 1
+$file = Get-ChildItem -Filter 'index.html' | Select-Object -First 1
 
 Write-Host "Processing: $($file.Name)" -ForegroundColor Cyan
 $content = [System.IO.File]::ReadAllText($file.FullName, [System.Text.Encoding]::UTF8)
