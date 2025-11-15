@@ -255,3 +255,765 @@
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [debug] [2025-11-12T13:35:25.276Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
 [debug] [2025-11-12T13:35:25.276Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:54:20.315Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:54:20.317Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T13:54:20.327Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.327Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.328Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.329Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.330Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.330Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.345Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.346Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.347Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.347Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.347Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:54:20.348Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T13:54:20.350Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.350Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.353Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.354Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.356Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.356Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.358Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.358Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.360Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-12T13:54:20.360Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.363Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.363Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.363Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.363Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.363Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.364Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.367Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.367Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.368Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.368Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:54:20.368Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.368Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.370Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.370Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.372Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.373Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.375Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T13:54:20.375Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:20.377Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-12T13:54:20.377Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:54:21.413Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-12T13:54:21.413Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-12T13:54:21.421Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-12T13:54:21.421Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-12T13:54:21.451Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-12T13:54:21.451Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.463Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T13:54:21.464Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.465Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T13:54:21.465Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.471Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T13:54:21.471Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.475Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T13:54:21.475Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.480Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T13:54:21.480Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:54:21.490Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:54:21.490Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:54:21.493Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:54:21.493Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T13:54:21.499Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-12T13:54:21.499Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T13:54:21.511Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T13:54:21.511Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:04.370Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:04.373Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T13:57:04.387Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.388Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.389Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.389Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.390Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.390Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.407Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.407Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.408Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.408Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.410Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.411Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.468Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.468Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.472Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.473Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.475Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.476Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.478Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-12T13:57:04.478Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:04.498Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:04.499Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-12T13:57:04.500Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.500Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.501Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.501Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.501Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.502Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.507Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.511Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.511Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.512Z] Checked if tokens are valid: true, expires at: 1762958122735
+[debug] [2025-11-12T13:57:04.512Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.512Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.521Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.521Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.526Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.526Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.533Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-12T13:57:04.533Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:04.539Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-12T13:57:04.539Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-12T13:57:05.643Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-12T13:57:05.646Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.681Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T13:57:05.681Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.682Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-12T13:57:05.683Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-12T13:57:05.697Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T13:57:05.698Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.698Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T13:57:05.699Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.714Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-12T13:57:05.714Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.715Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-12T13:57:05.716Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-12T13:57:05.723Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-12T13:57:05.723Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.725Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-12T13:57:05.725Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-12T13:57:05.727Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-12T13:57:05.727Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.739Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.740Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.745Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.745Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.772Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.772Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.774Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.774Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.790Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.792Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:05.797Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:05.797Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:10.683Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:10.683Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:10.688Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:10.688Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:10.698Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:10.698Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-12T13:57:10.701Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-12T13:57:10.701Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:20.573Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:20.581Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-13T10:35:20.621Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.623Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.626Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.642Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.645Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.673Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.673Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.674Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.683Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.684Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.698Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.705Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.706Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.707Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.707Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.797Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.798Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.798Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.798Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.798Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.815Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.815Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.815Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.820Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.821Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.831Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:20.832Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-13T10:35:20.841Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.845Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.845Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.846Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.846Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.855Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.855Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.867Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.868Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.868Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.874Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.874Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.874Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.879Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.879Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.899Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.899Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.899Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.905Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.905Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:20.918Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.919Z] Checked if tokens are valid: false, expires at: 1762958122735
+[debug] [2025-11-13T10:35:20.919Z] > refreshing access token with scopes: []
+[debug] [2025-11-13T10:35:20.926Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-13T10:35:20.926Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.243Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.243Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.275Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-13T10:35:21.275Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.313Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.313Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.331Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.333Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.402Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.403Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.431Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-13T10:35:21.432Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.460Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.461Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.482Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.483Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.491Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.491Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.510Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.511Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.536Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.536Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.559Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.568Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.573Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.573Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.596Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.596Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.610Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.610Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.636Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.636Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.683Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.683Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.705Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.705Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:21.749Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-13T10:35:21.749Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-13T10:35:21.772Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-13T10:35:21.773Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:22.367Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-13T10:35:22.369Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-13T10:35:22.526Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-13T10:35:22.527Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-13T10:35:22.545Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-13T10:35:22.548Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.675Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-13T10:35:22.677Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.725Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-13T10:35:22.726Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.780Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-13T10:35:22.780Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.823Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-13T10:35:22.824Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.839Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-13T10:35:22.839Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.842Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-13T10:35:22.842Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:22.853Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-13T10:35:22.854Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:22.883Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:22.883Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:22.888Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:22.889Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:34.165Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:34.167Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-13T10:35:34.189Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.191Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.192Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.192Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.193Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.193Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.203Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.204Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.204Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.205Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.206Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.207Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.209Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.209Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.212Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.212Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.214Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.214Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.216Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-13T10:35:34.216Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:34.222Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:34.222Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-13T10:35:34.223Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.223Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.223Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.223Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.224Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.224Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.228Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.228Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.228Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.228Z] Checked if tokens are valid: true, expires at: 1763033720750
+[debug] [2025-11-13T10:35:34.229Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.229Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.230Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.231Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.232Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.232Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.234Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-13T10:35:34.234Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.235Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-13T10:35:34.236Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-13T10:35:34.534Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-13T10:35:34.537Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-13T10:35:35.309Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-13T10:35:35.309Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-13T10:35:35.328Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-13T10:35:35.328Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.338Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-13T10:35:35.339Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.351Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-13T10:35:35.351Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.354Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-13T10:35:35.355Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.358Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-13T10:35:35.358Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.361Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-13T10:35:35.361Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.376Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-13T10:35:35.376Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-13T10:35:35.377Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-13T10:35:35.377Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:35.410Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:35.411Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:35.428Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:35.433Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:46.358Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:46.359Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:46.370Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:46.371Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:46.380Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:46.380Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:46.387Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:46.387Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:47.897Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:47.897Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:47.904Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:47.905Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:47.918Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:47.918Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-13T10:35:47.927Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-13T10:35:47.927Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-14T12:01:36.167Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-14T12:01:36.168Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-14T12:01:36.178Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.179Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.179Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.184Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.184Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.187Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.187Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.188Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.188Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.189Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.191Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.191Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.192Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.192Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.192Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.202Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.202Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.202Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.202Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.202Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.204Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.204Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.204Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.205Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.205Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.207Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-14T12:01:36.207Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-14T12:01:36.208Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.208Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.208Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.208Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.208Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.210Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.210Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.210Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.210Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.210Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.211Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.211Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.211Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.212Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.212Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.215Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.215Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.215Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.216Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.216Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.218Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.218Z] Checked if tokens are valid: false, expires at: 1763033720750
+[debug] [2025-11-14T12:01:36.218Z] > refreshing access token with scopes: []
+[debug] [2025-11-14T12:01:36.218Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-14T12:01:36.218Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.329Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.329Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.345Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.346Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.353Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.353Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.362Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.362Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.367Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.367Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.381Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.381Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.397Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.397Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.406Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.406Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.409Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.409Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.418Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.418Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.421Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.421Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.432Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.432Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.434Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.434Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.443Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-14T12:01:36.443Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.445Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.445Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.454Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.454Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.464Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.464Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.474Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-14T12:01:36.474Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:36.476Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-14T12:01:36.476Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-14T12:01:36.486Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-14T12:01:36.487Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-14T12:01:37.425Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-14T12:01:37.425Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.436Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-14T12:01:37.436Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.447Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-14T12:01:37.448Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-14T12:01:37.458Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-14T12:01:37.459Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.484Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-14T12:01:37.484Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.491Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-14T12:01:37.491Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.504Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-14T12:01:37.504Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-14T12:01:37.524Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-14T12:01:37.524Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.528Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-14T12:01:37.528Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-14T12:01:37.532Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-14T12:01:37.532Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-14T12:01:37.541Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-14T12:01:37.542Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-14T12:01:37.547Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-14T12:01:37.547Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:19.746Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:19.749Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-15T06:42:19.780Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:19.781Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:19.787Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:19.809Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:19.814Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:19.892Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:19.893Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:19.911Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:19.933Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:19.961Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.001Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.011Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.011Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:20.025Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:20.025Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.460Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.471Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.471Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:20.472Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:20.472Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.524Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.524Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.524Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:20.525Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:20.534Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.570Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:20.604Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-15T06:42:20.621Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.622Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.630Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:20.644Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:20.645Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.756Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.758Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:20.758Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:20.794Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:20.794Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:20.979Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.009Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.010Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:21.039Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:21.039Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:21.176Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.177Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.177Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:21.177Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:21.178Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:21.194Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.195Z] Checked if tokens are valid: false, expires at: 1763125295476
+[debug] [2025-11-15T06:42:21.195Z] > refreshing access token with scopes: []
+[debug] [2025-11-15T06:42:21.201Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-11-15T06:42:21.202Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.742Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.743Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.784Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-15T06:42:22.786Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:22.796Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.797Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.814Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-15T06:42:22.814Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:22.826Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.827Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.847Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-15T06:42:22.847Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:22.890Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.894Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.917Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-15T06:42:22.917Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:22.937Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.938Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:22.966Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-15T06:42:22.966Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:22.997Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:22.998Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:23.018Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-15T06:42:23.018Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:23.040Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:23.045Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:23.077Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-15T06:42:23.077Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:23.105Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:23.106Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:23.127Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-15T06:42:23.127Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:23.152Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:23.156Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:23.186Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-15T06:42:23.187Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:23.220Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-11-15T06:42:23.220Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-11-15T06:42:23.242Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-15T06:42:23.242Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:23.594Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:23.594Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:23.609Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:23.609Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-15T06:42:23.870Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-15T06:42:23.871Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-15T06:42:23.994Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-15T06:42:23.995Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:23.999Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-15T06:42:23.999Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.043Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-15T06:42:24.044Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.100Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-15T06:42:24.100Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.214Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-15T06:42:24.215Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.236Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-15T06:42:24.236Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.259Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-15T06:42:24.259Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-15T06:42:24.278Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-15T06:42:24.278Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:24.292Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-15T06:42:24.292Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:38.874Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:38.876Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-15T06:42:38.891Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.893Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.894Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.894Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.896Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.898Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.915Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.916Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.917Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.917Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.917Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:38.918Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[debug] [2025-11-15T06:42:38.920Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.921Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.924Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.925Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.928Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.928Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.931Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.931Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.934Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-15T06:42:38.935Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.939Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.939Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.939Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.940Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.940Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.940Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.945Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.946Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.948Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.949Z] Checked if tokens are valid: true, expires at: 1763192542221
+[debug] [2025-11-15T06:42:38.949Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.949Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.952Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.952Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.954Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.955Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.957Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-11-15T06:42:38.958Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:38.960Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [none]
+[debug] [2025-11-15T06:42:38.965Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com x-goog-quota-user=projects/flyersgit-12645599-a5b83
+[debug] [2025-11-15T06:42:40.027Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-15T06:42:40.027Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.029Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-15T06:42:40.029Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-15T06:42:40.037Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-15T06:42:40.037Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.038Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-11-15T06:42:40.038Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.054Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-15T06:42:40.054Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.061Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-15T06:42:40.061Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.068Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com 200
+[debug] [2025-11-15T06:42:40.068Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firestore.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.071Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-11-15T06:42:40.071Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-11-15T06:42:40.073Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com 403
+[debug] [2025-11-15T06:42:40.073Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/firebaseio.com [omitted]
+[debug] [2025-11-15T06:42:40.075Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com 200
+[debug] [2025-11-15T06:42:40.075Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/flyersgit-12645599-a5b83/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.090Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.090Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.098Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.098Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.155Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.155Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.159Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.159Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.178Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.179Z] > authorizing via signed-in user (flyersorgg@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-11-15T06:42:40.181Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-11-15T06:42:40.181Z] > authorizing via signed-in user (flyersorgg@gmail.com)
