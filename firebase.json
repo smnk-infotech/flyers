@@ -39,7 +39,7 @@
         "headers": [
           {
             "key": "Content-Security-Policy",
-            "value": "frame-ancestors 'self'"
+            "value": "frame-ancestors 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com; img-src 'self' data: https://www.google-analytics.com https://flyerscharitabletrust.org https://www.flyerstrust.org https://i0.wp.com https://i1.wp.com https://i2.wp.com https://maps.googleapis.com https://maps.gstatic.com; style-src 'self' 'unsafe-inline';"
           }
         ]
       }
