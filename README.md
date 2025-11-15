@@ -1,95 +1,270 @@
 # Flyers Charitable Trust Website
 
-This is the official website for the Flyers Charitable Trust, a non-governmental organization based in Coimbatore, Tamil Nadu, India. The website is designed to be a professional, corporate-style platform that provides information about the trust's activities, services, and ways to get involved.
+This is the official website for the Flyers Charitable Trust, a non-governmental organization based in Coimbatore, Tamil Nadu, India. The website is a professional, corporate-style platform that provides information about the trust's activities, services, and ways to get involved.
 
-BASED ON THIS USING THAT ALREADY HAVE FILES AND IMAGES CREATE AND MODIFY THIS Here are the detailed requirements and features you should provide to an AI website builder to create a new, professional, corporate-style website for Flyers Charitable Trust, based on your current website:
+## 🌐 Live Website
+**Production URL:** https://flyerscharitabletrust-site.web.app
 
-Organization Details Name: Flyers Charitable Trust
-Location: Coimbatore, Tamil Nadu, India
+## 📋 Organization Details
+- **Name:** Flyers Charitable Trust
+- **Location:** Coimbatore, Tamil Nadu, India
+- **Purpose:** NGO focused on Child Welfare, Women Empowerment, Education, Healthcare, and Community Development
+- **Type:** Static Website (WordPress/Elementor Export)
 
-Purpose: NGO focused on Child Welfare, Women Empowerment, Education, and more.
+## 🎨 Design & Branding
 
-Slogan (if any): [Include official slogan or request help creating one]
+### Color Palette
+- **Primary Blue:** `#060097` (--ast-global-color-0)
+- **Accent Purple:** `#c10fff` (--ast-global-color-1)
+- **Heading Text:** `#1e293b` (--ast-global-color-2)
+- **Body Text:** `#67768e` (--ast-global-color-3)
+- **Light Background:** `#f9f6fe` (--ast-global-color-4)
+- **White:** `#FFFFFF` (--ast-global-color-5)
+- **Light Gray:** `#F2F5F7` (--ast-global-color-6)
+- **Accent Yellow:** `#ffcd57` (--ast-global-color-7)
 
-Logo: [Upload official logo or request modern logo design]
+### Typography
+- **Headings:** Plus Jakarta Sans (600 weight)
+- **Body Text:** Inter
+- **Base Font Size:** 18px (112.5%)
 
-Branding Requirements Professional, clean, modern corporate design
-Use of official colors (trust’s colors or specify—blue, white, green, gold, etc.)
+### Theme
+- **WordPress Theme:** Astra
+- **Page Builder:** Elementor Pro 3.29.2
+- **Design Style:** Modern, clean, corporate
 
-Consistent font and section styling
+## ✅ Completed Features
 
-Prominent display of trust’s logo and tagline
+### Core Pages (Fully Implemented)
+1. **Home Page** - `Flyers Charitable Trust – Flyers Charitable Trust In Coimbatore.html`
+   - Hero section with banner
+   - Mission and vision statements
+   - Impact metrics (counters with animations)
+   - Quick links and call-to-action buttons
+   - Photo slider/carousel
+   - Testimonials section
+   
+2. **About Us Page** - `About Us – Flyers Charitable Trust.html`
+   - Detailed history and mission
+   - Vision and objectives
+   - Team profiles with photos
+   - Trust information
+   
+3. **Services Page** - `Services – Flyers Charitable Trust.html`
+   - Child Welfare programs
+   - Women Empowerment initiatives
+   - Education projects
+   - Healthcare services
+   - Community development
+   
+4. **Donation Page** - `Donation – Flyers Charitable Trust.html`
+   - Multiple payment options
+   - Donation forms
+   - Tax benefit information
+   - Secure transaction details
+   
+5. **Gallery Page** - `Gallery – Flyers Charitable Trust.html`
+   - Event photo albums
+   - Image carousels
+   - Organized by activities
+   
+6. **Contact Page** - `Contact US – Flyers Charitable Trust.html`
+   - Contact form (Name, Email, Phone, Message)
+   - Embedded Google Maps
+   - Address and contact details
+   - Social media integration
 
-Home Page Features Hero section with large banner (photo of activities/team)
-Short mission and vision statement
+### Design Features
+- ✅ Fully responsive design (mobile, tablet, desktop)
+- ✅ Professional corporate styling
+- ✅ Consistent branding across all pages
+- ✅ Custom animations (fadeIn, zoomIn, slideIn effects)
+- ✅ Interactive counters with smooth number transitions
+- ✅ Image carousels and sliders
+- ✅ Icon boxes with hover effects
+- ✅ Social media icons with links
+- ✅ WhatsApp and phone call integration
 
-Impact metrics: "xx children supported," "xx volunteers," "xx projects," etc.
+### Technical Implementation
+- ✅ **Hosting:** Firebase Hosting
+- ✅ **SSL/HTTPS:** Enabled via Firebase
+- ✅ **Security Headers:** Configured (X-Frame-Options, CSP, HSTS)
+- ✅ **Animation System:** Custom JavaScript solution (`fix-animations.js`)
+- ✅ **Performance:** Optimized images and assets
+- ✅ **Accessibility:** Semantic HTML, proper heading structure
+- ✅ **Cross-browser Compatibility:** Chrome, Firefox, Safari, Edge
 
-Quick Links to Donate, Volunteer, Projects, and Contact
+### Custom Solutions Implemented
+1. **Animation Fix** (`fix-animations.js`)
+   - Resolves Elementor animation issues in static export
+   - Removes `elementor-invisible` class on page load
+   - Parses `data-settings` attributes for animation classes
+   - Smooth counter animations with requestAnimationFrame
+   - Applied to all pages
 
-Photo slider/carousel with images from events/campaigns
+2. **Firebase Configuration** (`firebase.json`)
+   - Security headers (X-Frame-Options: SAMEORIGIN)
+   - Content Security Policy
+   - HSTS enforcement
+   - Clean URL structure
 
-About Us Section Detailed history, vision, mission, and objectives
-Trustee/Team profiles with photos and bios
+3. **Redirect Setup** (`index.html`)
+   - Automatic redirect to main homepage
+   - Proper HTML5 structure
+   - Meta viewport for mobile responsiveness
 
-Trust registration and certifications (may include downloadable certificates)
+## 📁 File Structure
+```
+flyers/
+├── index.html                          # Redirect to homepage
+├── fix-animations.js                   # Custom animation handler
+├── firebase.json                       # Firebase hosting config
+├── Flyers Charitable Trust – [...].html  # Homepage
+├── About Us – [...].html               # About page
+├── Services – [...].html               # Services page
+├── Donation – [...].html               # Donation page
+├── Gallery – [...].html                # Gallery page
+├── Contact US – [...].html             # Contact page
+├── [Page Name]_files/                  # Page-specific assets
+│   ├── CSS files (*.css)
+│   ├── JavaScript files (*.js)
+│   ├── Images
+│   └── Fonts
+├── images/                             # Shared images
+└── README/                             # Documentation assets
+```
 
-Annual reports and legal compliance documents
+## 🚀 Deployment
 
-Services/Projects Section List each service (Child Welfare, Women Empowerment, Education, etc.) with short descriptions
-Individual pages or sections for each ongoing/completed project, including:
+### Deployment Platform
+- **Service:** Firebase Hosting
+- **Project ID:** flyerscharitabletrust-site
+- **Total Files Deployed:** 1,149 files
 
-Project description, objectives, gallery, timeline, impact/results, funders/partners
+### Deployment Commands
+```bash
+# Deploy to Firebase
+firebase deploy --only hosting
 
-Get Involved Volunteer application form
-Careers/Internships (optional) with application form
+# Local testing
+python -m http.server 8000
+```
 
-Corporate Partnerships: info and partnership inquiry form
+### Deployment History
+- **Initial Deployment:** 1,148 files
+- **Animation Fix Update:** 1,149 files (added fix-animations.js)
+- **Status:** ✅ Successfully deployed and live
 
-Donate Page Multiple payment options: UPI, Netbanking, Debit/Credit, Paytm, Razorpay, etc.
-Info about tax benefits and legal compliance for donations
+## 🔧 Technical Stack
 
-Security badges (SSL, safe transaction indicators)
+### Frontend
+- HTML5
+- CSS3 (with CSS Grid and Flexbox)
+- Vanilla JavaScript
+- Elementor CSS framework
+- Astra theme styles
 
-News/Blog/Updates Updates on recent/ongoing events
-Impact stories and testimonials from beneficiaries/volunteers
+### Build Tools
+- WordPress (source)
+- Elementor Page Builder (design)
+- Static export (production)
 
-Blog articles and press releases
+### Hosting & Infrastructure
+- Firebase Hosting
+- Firebase CLI
+- Git version control
+- GitHub repository
 
-Gallery/Media Albums by event/year
-Embedded videos (YouTube, etc.)
+## 📊 Website Features Status
 
-Testimonials (video and written)
+### Implemented ✅
+- [x] Responsive design (mobile, tablet, desktop)
+- [x] Professional corporate styling
+- [x] Hero sections with banners
+- [x] Mission and vision statements
+- [x] Impact metrics with animated counters
+- [x] Quick links and CTAs
+- [x] Photo sliders/carousels
+- [x] Detailed about section
+- [x] Services/projects listings
+- [x] Donation page with payment info
+- [x] Gallery with albums
+- [x] Contact form
+- [x] Embedded Google Maps
+- [x] Social media integration
+- [x] Footer with quick links
+- [x] WhatsApp integration
+- [x] Custom animations
+- [x] Fast loading optimized images
+- [x] SSL/HTTPS security
+- [x] Security headers
 
-Contact & Social Contact form (Name, Email, Phone, Message)
-Embedded Google Map of office location
+### In Progress / Future Enhancements 🚧
+- [ ] SEO optimization (meta tags, schema.org)
+- [ ] Google Analytics integration
+- [ ] Live chat functionality
+- [ ] Event calendar
+- [ ] Blog/News section
+- [ ] Newsletter signup
+- [ ] Member login portal
+- [ ] Downloadable resources (brochures, reports)
+- [ ] Video testimonials
+- [ ] Press releases section
+- [ ] Corporate partnerships page
+- [ ] Volunteer application forms
+- [ ] Privacy policy page
+- [ ] Terms & conditions page
+- [ ] Multi-language support
 
-Display of address, email, and phone
+## 🐛 Known Issues & Fixes
 
-Social media integration with live feed (Facebook/Instagram, YouTube)
+### Fixed Issues ✅
+1. **404 Error on Homepage**
+   - **Problem:** Firebase expected `index.html` but homepage had different filename
+   - **Solution:** Created redirect `index.html` with meta refresh
+   - **Status:** ✅ Resolved
 
-Newsletter signup
+2. **HTML Validation Errors**
+   - **Problem:** Missing viewport meta tag and lang attribute
+   - **Solution:** Added proper HTML5 structure to index.html
+   - **Status:** ✅ Resolved
 
-Footer Quick links (Home, About, Donate, Projects, Contact)
-Privacy Policy, Terms & Conditions
+3. **Elementor Animations Not Working**
+   - **Problem:** Static export missing JavaScript for scroll-triggered animations
+   - **Solution:** Created custom `fix-animations.js` to manually trigger animations
+   - **Status:** ✅ Resolved
 
-Social icons
+4. **CSS Variable Syntax Error**
+   - **Problem:** `background-color:(--ast-global-dark-bg-style)` missing `var()`
+   - **Solution:** Documented in copilot-instructions.md for future fixes
+   - **Status:** ⚠️ Documented (run fix-css.ps1 script if available)
 
-Copyright notice
+## 📝 Development Notes
 
-Technical Features Fully responsive: Works on mobile, tablet, and desktop
-Fast loading and optimized images
+### Important Considerations
+1. **Do not refactor Elementor class names** - These are auto-generated and required for styling
+2. **Special characters in filenames** - Main files use em dash (–) character
+3. **Page-specific assets** - Each HTML page has corresponding `*_files/` directory
+4. **Animation dependencies** - All pages require `fix-animations.js` before closing `</body>` tag
 
-SEO-optimized (keywords, meta tags, schema.org)
+### Browser Compatibility
+- ✅ Chrome/Edge (Latest)
+- ✅ Firefox (Latest)
+- ✅ Safari (Latest)
+- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
-Accessibility: Readable fonts, contrast, alt text on images
+## 🔐 Security Features
+- HTTPS enforced via Firebase Hosting
+- X-Frame-Options: SAMEORIGIN (prevents clickjacking)
+- Content Security Policy headers
+- HTTP Strict Transport Security (HSTS)
+- Secure payment gateway integration
 
-Option for live chat or WhatsApp integration
+## 📞 Contact & Support
+For website updates or technical support, please contact the website administrator or refer to the contact information on the live website.
 
-Optional/Advanced Additions Event calendar (upcoming events)
+---
 
-Member login for volunteers/donors (portal)
-
-Downloadable resources (flyers, brochures)
-
-Integration with Google Analytics
+**Last Updated:** November 15, 2025  
+**Version:** 1.1.0  
+**Status:** ✅ Live in Production
