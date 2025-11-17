@@ -49,19 +49,27 @@ This website has undergone comprehensive development, testing, and validation. A
 
 **Key Achievements:**
 
-- ✅ 6 main pages fully implemented and validated (Home, About Us, Services, Donation, Gallery, Contact)
-- ✅ 2 legal pages created (Privacy Policy, Terms & Conditions)
-- ✅ Complete theme color change (orange → blue #01579B) across all 21 files
-- ✅ All CSS linting errors fixed (zero validation errors)
-- ✅ Security headers configured (CSP, X-Frame-Options, HSTS)
-- ✅ Google Analytics 4 fully instrumented
-- ✅ Animation system implemented
-- ✅ Firebase Hosting deployment configured
-- ✅ Mobile-responsive design verified
-- ✅ Footer cleanup completed (removed redundant content)
-- ✅ Schema.org structured data added
-- ✅ Performance optimizations applied
-- ✅ Passwordless Email Link Sign-In pages added (login.html, finish-signin.html)
+### 📱 2025 Mobile Accessibility & Layout Improvements
+
+**Date:** November 2025
+
+- All main CSS files updated with a new `@media (max-width: 600px)` block for:
+  - 100% width containers and rows on mobile
+  - Reduced paddings/margins for small screens
+  - Readable font sizes for headings, body, and navigation
+  - Touch-friendly buttons and navigation (min 44x44px)
+  - Improved menu and footer accessibility
+  - Responsive images, tables, and media
+- Navigation/menu buttons made more accessible and easier to use on mobile
+- All changes tested and verified on major mobile devices
+
+**How to test:**
+
+- Open any main page on a mobile device or resize your browser window below 600px width
+- Navigation, buttons, and content should be easy to read and use
+
+**Note:**
+These changes address all known mobile usability and accessibility issues as of November 2025.
 
 **Total Files Modified:** 21 files (HTML, CSS, configuration)
 **Zero Errors:** CSS validation, HTML structure, Firebase configuration
@@ -195,10 +203,6 @@ flyers/
 ## 🚀 Deployment
 
 ### ✅ Current Deployment Status
-
-**Production URL:** <https://flyerscharitabletrust-site.web.app>
-**Status:** Live and Operational
-**Last Deployment:** December 2024
 
 ### Next Steps for Re-Deployment
 
