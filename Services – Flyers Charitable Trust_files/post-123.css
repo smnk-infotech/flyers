@@ -44,10 +44,10 @@
 
 /* Add hover effect for sticky menu items */
 .elementor-sticky--effects .sticky-menu-items ul li a:hover {
-   color: #f07e01 !important; /* Change to your preferred hover color */
+   color: #01579B !important; /* Change to your preferred hover color */
    transition: color 0.5s ease-in-out;
 }
 
 .sticky-menu-items ul li.current-menu-item a {
-  color: #f07e01  !important; /* Active page highlight */
+  color: #01579B  !important; /* Active page highlight */
 }/* End custom CSS */

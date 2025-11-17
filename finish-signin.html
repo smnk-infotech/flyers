@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Complete Sign-In | Flyers Charitable Trust</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {font-family:'Inter', Arial, sans-serif; margin:0; padding:40px; background:#f1f5f9; color:#1e293b;}
+    .container {max-width:520px; margin:0 auto; background:#fff; padding:38px 40px; border-radius:18px; box-shadow:0 6px 20px rgba(0,0,0,.08);} 
+    h1 {margin:0 0 18px; font-size:1.7rem; font-weight:600;}
+    .loading {animation:pulse 1.2s infinite ease-in-out;}
+    @keyframes pulse {0%{opacity:.35}50%{opacity:1}100%{opacity:.35}}
+    .status {margin-top:14px; font-size:15px;}
+    .success {color:#059669;}
+    .error {color:#dc2626;}
+    input[type=email]{width:100%; padding:12px 14px; border:1px solid #cbd5e1; border-radius:8px; font-size:15px; margin-top:6px;}
+    button {margin-top:16px; width:100%; padding:14px 18px; border:none; border-radius:10px; font-size:16px; font-weight:600; cursor:pointer; background:linear-gradient(135deg,#060097,#0800c4); color:#fff;}
+    a.portal {display:inline-block; margin-top:26px; text-decoration:none; color:#060097; font-weight:600; display:none;}
+    .email-reenter {margin-top:22px; display:none;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Completing Sign-In…</h1>
+    <p id="info">We are verifying your secure email link. This should only take a moment.</p>
+    <div id="status" class="status loading">Checking link…</div>
+
+    <div class="email-reenter" id="emailPrompt">
+      <p>This link was opened on a different device or the email wasn't saved. Please enter your email to finish sign-in:</p>
+      <input id="emailInput" type="email" placeholder="you@example.com" required />
+      <button id="finishBtn">Finish Sign-In</button>
+      <div id="promptStatus" class="status"></div>
+    </div>
+
+    <a id="portalLink" class="portal" href="/portal/">→ Go to Portal Dashboard</a>
+  </div>
+
+  <script type="module">
+    import { auth, completeEmailLinkSignIn } from './email-link-auth.js';
+    import { isSignInWithEmailLink, signInWithEmailLink } from "https://www.gstatic.com/firebasejs/11.0.0/firebase-auth.js";
+
+    const statusEl = document.getElementById('status');
+    const infoEl = document.getElementById('info');
+    const emailPrompt = document.getElementById('emailPrompt');
+    const emailInput = document.getElementById('emailInput');
+    const finishBtn = document.getElementById('finishBtn');
+    const promptStatus = document.getElementById('promptStatus');
+    const portalLink = document.getElementById('portalLink');
+
+    async function attemptAutoComplete() {
+      try {
+        const user = await completeEmailLinkSignIn();
+        if (user) {
+          statusEl.classList.remove('loading');
+          statusEl.classList.add('success');
+          statusEl.textContent = 'Signed in as ' + (user.email || 'user');
+          infoEl.textContent = 'Authentication successful.';
+          portalLink.style.display = 'inline-block';
+          return;
+        }
+        // Not a valid sign-in link or missing stored email
+        if (isSignInWithEmailLink(auth, window.location.href)) {
+          // Need to prompt for email
+          statusEl.textContent = 'Email needed to complete sign-in.';
+          statusEl.classList.remove('loading');
+          emailPrompt.style.display = 'block';
+        } else {
+          statusEl.textContent = 'Invalid or expired sign-in link.';
+          statusEl.classList.remove('loading');
+          statusEl.classList.add('error');
+        }
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent = 'Failed to complete sign-in.';
+        statusEl.classList.remove('loading');
+        statusEl.classList.add('error');
+        if (isSignInWithEmailLink(auth, window.location.href)) {
+          emailPrompt.style.display = 'block';
+        }
+      }
+    }
+
+    finishBtn.addEventListener('click', async () => {
+      promptStatus.textContent = '';
+      const email = (emailInput.value || '').trim();
+      if (!email) {
+        promptStatus.textContent = 'Email is required.';
+        promptStatus.className = 'status error';
+        return;
+      }
+      finishBtn.disabled = true;
+      finishBtn.textContent = 'Verifying…';
+      try {
+        const userCred = await signInWithEmailLink(auth, email, window.location.href);
+        promptStatus.textContent = 'Signed in as ' + userCred.user.email;
+        promptStatus.className = 'status success';
+        finishBtn.textContent = 'Completed';
+        statusEl.textContent = 'Sign-in completed.';
+        statusEl.className = 'status success';
+        portalLink.style.display = 'inline-block';
+      } catch (err) {
+        console.error(err);
+        promptStatus.textContent = 'Failed to sign in. Link may be invalid.';
+        promptStatus.className = 'status error';
+        finishBtn.disabled = false;
+        finishBtn.textContent = 'Finish Sign-In';
+      }
+    });
+
+    attemptAutoComplete();
+  </script>
+</body>
+</html>
