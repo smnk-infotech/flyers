@@ -49,6 +49,37 @@ This website has undergone comprehensive development, testing, and validation. A
 
 **Key Achievements:**
 
+### 🎯 2025 Navigation & Header Updates
+
+**Date:** November 19, 2025
+
+#### Navigation Menu Restructure
+- Reorganized navigation with "About Us" dropdown submenu containing:
+  - Know Us
+  - Our Story & Team
+  - Milestone
+  - Our Partners
+  - Transparency
+  - Testimonial
+  - Contact Us
+- Main navigation now includes: Home, About Us (dropdown), Programs, Impact, Gallery, Volunteer, CSR
+- Replaced "Corporate Portal" button with "Donate Now" button linking to Donation page
+- Added dropdown CSS styling in `mobile-fixes.css` with hover effects and animations
+
+#### Changes Applied To All Pages
+- ✅ Home page (`Flyers Charitable Trust – Flyers Charitable Trust In Coimbatore.html`)
+- ✅ About Us page (`About Us – Flyers Charitable Trust.html`)
+- ✅ Services page (`Services – Flyers Charitable Trust.html`)
+- ✅ Gallery page (`Gallery – Flyers Charitable Trust.html`)
+- ✅ Donation page (`Donation – Flyers Charitable Trust.html`)
+- ✅ Contact page (`Contact US – Flyers Charitable Trust.html`)
+
+**Testing:**
+- Local server running on port 8000
+- All navigation links verified
+- Dropdown functionality tested on desktop
+- Gallery page fully functional with all images and content preserved
+
 ### 📱 2025 Mobile Accessibility & Layout Improvements
 
 **Date:** November 2025
