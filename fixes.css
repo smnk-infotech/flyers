@@ -1,0 +1,128 @@
+.btn-donate-custom {
+    background: linear-gradient(135deg, #060097 0%, #0800c4 100%);
+    color: #ffffff;
+    padding: 12px 20px;
+    font-weight: 600;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(6, 0, 151, 0.18);
+    transition: all 0.25s ease;
+}
+
+.btn-portal-custom {
+    background: linear-gradient(135deg, #01579B 0%, #023e6b 100%);
+    color: #ffffff;
+    padding: 12px 20px;
+    font-weight: 600;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(1, 87, 155, 0.18);
+    transition: all 0.25s ease;
+}
+
+.btn-wrapper-flex {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+/* Sticky header positioning */
+.elementor-sticky.elementor-sticky--active {
+    position: fixed !important;
+    width: 100% !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    top: 0 !important;
+}
+
+/* Sticky spacer */
+.elementor-sticky__spacer {
+    visibility: hidden !important;
+    transition: none !important;
+    animation: none !important;
+}
+
+/* Mobile dropdown menu */
+.elementor-nav-menu--dropdown {
+    width: 100% !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+
+/* SVG shape opacity */
+.elementor-shape-fill {
+    opacity: 0.33;
+}
+
+/* Hidden elements */
+.svg-hidden,
+#PING_IFRAME_FORM_DETECTION {
+    display: none !important;
+}
+
+/* Popup display */
+.elementor-popup-modal[data-elementor-post-type="elementor_library"] {
+    display: block;
+}
+
+/* Swiper carousel */
+.swiper-wrapper {
+    transform: translate3d(-120px, 0, 0);
+    transition-duration: 500ms;
+}
+
+.swiper-slide {
+    width: 60px;
+}
+
+
+/* Fixed header and mobile nav positioning - moved from inline styles */
+.elementor-sticky--active {
+    position: fixed !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.elementor-sticky__spacer {
+    visibility: hidden !important;
+    transition: none !important;
+    animation: none !important;
+}
+
+.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+    width: auto !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+
+/* SVG shape opacity */
+.elementor-shape-fill {
+    opacity: 0.33;
+}
+
+.elementor-shape-fill:last-child {
+    opacity: 1;
+}
+
+/* Hidden elements */
+#elementor-device-mode,
+.e-font-icon-svg-symbols,
+#PING_IFRAME_FORM_DETECTION {
+    display: none !important;
+}
+
+/* Popup and carousel display */
+.elementor-location-popup {
+    display: block;
+}
+
+/* Swiper carousel sizing - controlled by Swiper JS */
+.swiper-slide {
+    width: auto;
+}
+
+.elementor-image-carousel.swiper-wrapper {
+    transform: translate3d(0, 0, 0);
+    transition-duration: 500ms;
+}
